@@ -23,6 +23,7 @@ Python (Pandas, Matplotlib) – Data preprocessing and analysis
 Power BI / Tableau – Dashboard creation and visualization
 SQL (optional) – Data querying and transformation
 GitHub – Version control and project sharing
+
 🧹 Data Cleaning & Preparation
 
 To ensure accurate analysis, the dataset was cleaned and prepared using the following steps:
@@ -62,6 +63,7 @@ Employee Leave Trends
 Education Level Impact on Salary
 Performance Rating Insight
 Salary Trend Over Time
+
 🚀 Recommendations
 
 Based on the insights, the following recommendations are suggested:
@@ -71,6 +73,7 @@ Optimize resource allocation based on high-performing areas
 Provide training programs where performance is low
 Implement strategies to improve overall efficiency
 Use data-driven decision-making for future planning
+
 ⚙️ How to Use
 
 This project can be used for:
