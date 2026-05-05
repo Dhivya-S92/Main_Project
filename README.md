@@ -5,12 +5,10 @@ This project focuses on analyzing a dataset to uncover meaningful insights and s
 🗂️ Data Source
 
 The dataset used in this project was obtained from:
-
 Company Database
 It contains information such as (e.g., employee details, sales data, customer behavior, etc.)
 
 Dataset Features:
-
 Number of rows: 5080
 Number of columns: 20
 Key columns: (e.g., Salary, Department, Region, Date, etc.)
